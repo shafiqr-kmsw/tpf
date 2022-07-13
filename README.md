@@ -1,4 +1,3 @@
 # tpf
-Teaching Portfolio of Shafiq R.
-Will be updated with time. 
-Folders are created for each section of the teaching portfolio
+All documents related to Shafiq R's teaching postfolio.   
+Each section of the portfolio are kept in folders. 
