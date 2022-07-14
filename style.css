@@ -99,13 +99,13 @@ header .vert-text .scroll-down::before {
 #contacts {
 	margin: 0 auto;
   padding: 100px 0;
-	background: #4974a5;
+	background: #A4B9D2;
 	width: 100%;
   color: #fff;
 	transition: all 1.7s ease;
 }
 #contacts:hover{
-	background: #A4B9D2;
+	background: #2B4563;
 	color: #fff;
 }
 #contacts .social {
