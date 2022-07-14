@@ -1,6 +1,6 @@
 body {
   font-family: 'Comfortaa', cursive;
-	background: #B24592;  /* fallback for old browsers */
+	background: #2B4563;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #A4B9D2,#2B4563 );  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #A4B9D2,#2B4563 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
@@ -99,13 +99,13 @@ header .vert-text .scroll-down::before {
 #contacts {
 	margin: 0 auto;
   padding: 100px 0;
-	background: #224;
+	background: #4974a5;
 	width: 100%;
   color: #fff;
 	transition: all 1.7s ease;
 }
 #contacts:hover{
-	background: #fa3380;
+	background: #4974a5;
 	color: #fff;
 }
 #contacts .social {
@@ -179,13 +179,13 @@ button{
 	width: 200px;
 	text-align: center;
 	outline: none;
-	background: #fa3380;
+	background: #4974a5;
 	border: 1px solid #eee;
 	box-shadow: 8px 10px 20px 0px rgba(46,61,73,0.15);
 	transition: all 0.3s ease;
 }
 button:hover{
-background: purple;
+background: blue;
 }
 
 .p-img{
