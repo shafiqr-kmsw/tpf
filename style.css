@@ -143,16 +143,16 @@ input[type=text]:focus{
 	margin-top: -70px;
 }
 hr.style17 {
-	border-top: 1px solid pink;
+	border-top: 1px solid blue;
 	text-align: center;
 	width: 250px;
 	margin-top: 10px;
 }
 hr.style17:after{
-	border-top: 1px solid pink;
-	border-right: 1px solid pink;
-	border-bottom: 1px solid pink;
-	border-left: 1px solid pink;
+	border-top: 1px solid blue;
+	border-right: 1px solid blue;
+	border-bottom: 1px solid blue;
+	border-left: 1px solid blue;
 }
 hr.style17:after {
 	content: '§';
