@@ -1,8 +1,8 @@
 body {
   font-family: 'Comfortaa', cursive;
-	background: #B24592;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #F15F79, #B24592);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #F15F79, #B24592); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: #2B4563;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #A4B9D2,#2B4563 );  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #A4B9D2,#2B4563 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 h1.major,
 h2.major,
@@ -99,13 +99,13 @@ header .vert-text .scroll-down::before {
 #contacts {
 	margin: 0 auto;
   padding: 100px 0;
-	background: #224;
+	background: #A4B9D2;
 	width: 100%;
   color: #fff;
 	transition: all 1.7s ease;
 }
 #contacts:hover{
-	background: #fa3380;
+	background: #2B4563;
 	color: #fff;
 }
 #contacts .social {
@@ -143,16 +143,16 @@ input[type=text]:focus{
 	margin-top: -70px;
 }
 hr.style17 {
-	border-top: 1px solid pink;
+	border-top: 1px solid blue;
 	text-align: center;
 	width: 250px;
 	margin-top: 10px;
 }
 hr.style17:after{
-	border-top: 1px solid pink;
-	border-right: 1px solid pink;
-	border-bottom: 1px solid pink;
-	border-left: 1px solid pink;
+	border-top: 1px solid blue;
+	border-right: 1px solid blue;
+	border-bottom: 1px solid blue;
+	border-left: 1px solid blue;
 }
 hr.style17:after {
 	content: '§';
@@ -160,7 +160,7 @@ hr.style17:after {
 	position: relative;
 	top: -10px;
 	padding: 0 10px;
-	background: #fa3380;
+	background: #4974a5;
 	color: #fff;
 	font-size: 18px;
 	-webkit-transform: rotate(60deg);
@@ -179,13 +179,13 @@ button{
 	width: 200px;
 	text-align: center;
 	outline: none;
-	background: #fa3380;
+	background: #4974a5;
 	border: 1px solid #eee;
 	box-shadow: 8px 10px 20px 0px rgba(46,61,73,0.15);
 	transition: all 0.3s ease;
 }
 button:hover{
-background: purple;
+background: blue;
 }
 
 .p-img{
